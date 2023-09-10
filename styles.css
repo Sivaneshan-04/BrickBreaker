@@ -1,0 +1,40 @@
+body{
+	background-color: rgb(0, 0, 0);
+}
+#canvas-container{
+  text-align: center;
+}
+
+#header-container{
+  text-align: center;
+  font-size: 30px;
+	color: white;
+}
+p{
+    text-align: center;
+	color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.start{
+    text-align: center;
+	color: rgb(232, 244, 12);
+    font-size: 20px;
+    font-weight: bold;
+}
+.end{
+    text-align: center;
+	color: rgb(244, 12, 12);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.instruction {
+    text-align: center;
+    font-size: 40px;
+	color: white;
+}
+
+.instruction p{
+    text-align: center;
+    font-size: 20px;
+}
